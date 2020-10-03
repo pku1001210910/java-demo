@@ -1,0 +1,9 @@
+# ignore common settings and files
+/target/*
+*.class
+*.jar
+*.log
+.classpath
+.settings*
+.project
+.vscode
