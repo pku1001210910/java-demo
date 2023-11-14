@@ -1,4 +1,4 @@
-package main.java.top.moonstar.array;
+package top.moonstar.array;
 
 /**
  * Link:
@@ -32,7 +32,7 @@ public class ContainerWithMostWater {
         while (i != j) {
             int width = j - i;
             int height = Math.min(heights[i], heights[j]);
-            maxArea = Math.max(maxArea, width * heigth);
+            maxArea = Math.max(maxArea, width * height);
 
             if (heights[i] <= heights[j]) {
                 i++;

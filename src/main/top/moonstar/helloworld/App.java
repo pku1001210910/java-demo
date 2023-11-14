@@ -1,4 +1,4 @@
-package top.moonstar;
+package top.moonstar.helloworld;
 
 /**
  * Hello world!

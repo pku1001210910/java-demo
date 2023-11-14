@@ -1,5 +1,4 @@
-package main.java.top.moonstar.array;
-
+package top.moonstar.array;
 import java.util.HashMap;
 import java.util.Map;
 

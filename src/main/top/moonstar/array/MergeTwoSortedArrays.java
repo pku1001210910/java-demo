@@ -1,4 +1,4 @@
-package main.java.top.moonstar.array;
+package top.moonstar.array;
 
 /**
  * Link:
