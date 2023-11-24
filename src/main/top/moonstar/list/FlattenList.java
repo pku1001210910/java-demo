@@ -1,5 +1,8 @@
 package top.moonstar.list;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * link:
  * https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
@@ -12,10 +15,6 @@ class Node {
 };
 
 public class FlattenList {
-    public static void main(String[] args) {
-
-    }
-
     /**
      * flattn linked list and return its tail
      * 
